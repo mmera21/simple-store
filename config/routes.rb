@@ -12,4 +12,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+
+  # 9.3. Rails Routes -> information from the rails instruccions
+  get "/products", to: "products#index"
 end
