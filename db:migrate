@@ -1,0 +1,135 @@
+=> 
+[[32m#<Product:0x000075348c575cc0[0m
+  [36mid[0m: [34m[1m1[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mPractical Marble Computer[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Illo ullam quas. Ut possimus dolorum. Veniam tem...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.6465e2[0m,
+  [36mstock_quantity[0m: [34m[1m59[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.590757000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.590757000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543c48[0m
+  [36mid[0m: [34m[1m2[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mAerodynamic Wooden Knife[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Totam placeat atque. Nemo reprehenderit omnis. Q...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.22e1[0m,
+  [36mstock_quantity[0m: [34m[1m72[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.616936000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.616936000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543b80[0m
+  [36mid[0m: [34m[1m3[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mAwesome Copper Car[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Eius maxime dolores. Repellendus dolorem dolorum...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.5055e2[0m,
+  [36mstock_quantity[0m: [34m[1m59[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.626806000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.626806000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543ab8[0m
+  [36mid[0m: [34m[1m4[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mSleek Copper Computer[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"In recusandae rerum. Voluptas quod sunt. Repelle...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.9302e2[0m,
+  [36mstock_quantity[0m: [34m[1m10[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.633728000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.633728000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c5439f0[0m
+  [36mid[0m: [34m[1m5[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mRustic Steel Coat[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Tenetur dolorum incidunt. Officiis culpa corpori...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.814e1[0m,
+  [36mstock_quantity[0m: [34m[1m21[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.641590000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.641590000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543928[0m
+  [36mid[0m: [34m[1m6[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mPractical Linen Gloves[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Sed vel ea. Incidunt voluptatum placeat. Quia ma...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.708e2[0m,
+  [36mstock_quantity[0m: [34m[1m82[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.648968000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.648968000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543860[0m
+  [36mid[0m: [34m[1m7[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mPractical Cotton Keyboard[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Facilis quasi magni. Delectus error ea. Ut aut h...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.6487e2[0m,
+  [36mstock_quantity[0m: [34m[1m73[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.659864000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.659864000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543798[0m
+  [36mid[0m: [34m[1m8[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mIntelligent Marble Shirt[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Earum voluptate esse. Consequatur quidem qui. Ea...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.2855e2[0m,
+  [36mstock_quantity[0m: [34m[1m98[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.668259000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.668259000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c5436d0[0m
+  [36mid[0m: [34m[1m9[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mSynergistic Marble Wallet[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Aut occaecati exercitationem. Quis distinctio ul...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.5249e2[0m,
+  [36mstock_quantity[0m: [34m[1m26[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.679647000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.679647000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543608[0m
+  [36mid[0m: [34m[1m10[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mSmall Rubber Bag[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Omnis sed et. Ut pariatur ut. Earum et quia.\", \"...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.8575e2[0m,
+  [36mstock_quantity[0m: [34m[1m61[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.689383000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.689383000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543540[0m
+  [36mid[0m: [34m[1m11[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mSleek Steel Shoes[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Debitis consequuntur id. Amet nobis pariatur. De...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.3048e2[0m,
+  [36mstock_quantity[0m: [34m[1m86[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.699225000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.699225000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543478[0m
+  [36mid[0m: [34m[1m12[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mEnormous Copper Shoes[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Nesciunt dolorem natus. Aperiam rerum repellendu...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.326e1[0m,
+  [36mstock_quantity[0m: [34m[1m4[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.709289000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.709289000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c5433b0[0m
+  [36mid[0m: [34m[1m13[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mAerodynamic Steel Shirt[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Adipisci quis ea. Quisquam omnis reprehenderit. ...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.7759e2[0m,
+  [36mstock_quantity[0m: [34m[1m39[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.717481000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.717481000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c5432e8[0m
+  [36mid[0m: [34m[1m14[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mMediocre Rubber Hat[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Officia praesentium voluptas. Quam praesentium v...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.2109e2[0m,
+  [36mstock_quantity[0m: [34m[1m4[0m,
+  [36mcreated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.727825000 +0000[0m[31m[1m"[0m,
+  [36mupdated_at[0m: [31m[1m"[0m[31m2026-10-18 01:56:24.727825000 +0000[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Product:0x000075348c543220[0m
+  [36mid[0m: [34m[1m15[0m,
+  [36mtitle[0m: [31m[1m"[0m[31mIncredible Leather Bottle[0m[31m[1m"[0m,
+  [36mdescription[0m:
+   [31m[1m"[0m[31m[\"Doloribus quibusdam qui. Ut odit dolorem. Iure i...[0m[31m[1m"[0m,
+  [36mprice[0m: [35m[1m0.2669e2[0m,
+  [36mstock_quantity[0m: [34m[1m76[0m,
+  [36mcreated_at[0m: [31m
