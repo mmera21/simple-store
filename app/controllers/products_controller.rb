@@ -5,4 +5,9 @@ class ProductsController < ApplicationController
   def index
     @products = Product.all
   end
-end
+
+  # This work for just show one specific product ( with the id )
+  def show
+    @product = Product.find(params[:id])
+    end
+  end
