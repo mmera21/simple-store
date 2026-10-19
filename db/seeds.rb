@@ -1,17 +1,29 @@
-# This file should ensure the existence of records required to run the application in every environment (production,
-# development, test). The code here should be idempotent so that it can be executed at any point in every environment.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Example:
-#
-#   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
-#     MovieGenre.find_or_create_by!(name: genre_name)
-#   end
-
+require "csv"
 
 # I was playing a little bit with the database and validations so for clean I will delete all of them for start with the 676
 # Full stack notes, blocks I use the times
 Product.destroy_all
+# This one I add in the second part. 
+Category.destroy_all
+
+# Appendix A - Loading Data from a CSV in your seed script.
+csv_file = Rails.root.join('db/products.csv')
+csv_data = File.read(csv_file)
+products = CSV.parse(csv_data, headers: true)
+
+products.each do |product|
+# https://github.com/ruby/csv/blob/main/lib/csv.rb
+category_name = product['category']
+category = Category.find_or_create_by(name: category_name)
+
+
+category.products.create!(
+    title: product['name'],
+    description: product['description'],
+    price: product['price'],
+    stock_quantity: product['stock quantity'])
+end
+puts "The seed is working, yippie. "
 
 # documentation for faker ruby. 
 # https://www.rubydoc.info/gems/faker/Faker/Number
@@ -19,6 +31,8 @@ Product.destroy_all
 # https://dev.to/jaredm/how-to-use-faker-my-favorite-ruby-gem-3bjj
 # https://www.rubydoc.info/github/faker-ruby/faker/Faker/Commerce
 # 676.times do = is a loop,will repeat 676 for create the fake information.
+=begin
+
 676.times do Product.create!(
     # I use unique for don't have double products. 
     title: Faker::Commerce.unique.product_name,
@@ -32,5 +46,5 @@ Product.destroy_all
 end
 
 puts "You already created #{Product.count} successfully"
-
+=end
 # Done !
